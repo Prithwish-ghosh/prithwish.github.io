@@ -1,4 +1,8 @@
-# About Me
+[![Research](https://img.shields.io/badge/🔬%20Research-Click%20Here-blue)](research.md)
+[![CV](https://img.shields.io/badge/📄%20CV-Click%20Here-green)](cv.md)
+
+## About Me
+
 
 ## Education
 - (2024 - Present) - PhD in Statistics, North Carolina State University
