@@ -1,5 +1,4 @@
 [![Research](https://img.shields.io/badge/🔬%20Research-Click%20Here-blue)](research.md)
-[![CV](https://img.shields.io/badge/📄%20CV-Click%20Here-green)](cv.md)
 
 ## About Me
 
