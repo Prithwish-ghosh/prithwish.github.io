@@ -1,6 +1,8 @@
-[![Research](https://img.shields.io/badge/🔬%20Research-Click%20Here-blue)](research.md)
+[![🔬 Research](research.md)](research.md
 
 ## About Me
+- I am currently a first-year PhD student at the Department of Statistics at North Carolina State University. 
+Currently, I am engaged in Several projects on the following topics: circular data analysis, Bayesian Inference applied to Environmental, Astronomical data, and other interdisciplinary subjects. 
 
 
 ## Education
