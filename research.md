@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Research & Publications"
+permalink: /research/
+---
+
+
 # Research & Publications
 
 - [Ghosh.P., Chatterjee.D., Ghosh.S. "A Flexible Spherical Mixture Model for Gamma-Ray Burst Patterns obtained from BATSE & FERMI Missions"]
