@@ -2,8 +2,12 @@ title: Prithwish Ghosh
 #logo
 description: Statistician/Astro-Statistician
 theme: jekyll-theme-minimal
+
+# Optional: Add navigation
 nav:
   - title: "Home"
     url: "/"
   - title: "Research"
     url: "/research/"
+
+
