@@ -1,4 +1,4 @@
-[![🔬 Research](https://img.shields.io/badge/Research-Click%20Here-blue)](research.md)
+[![🔬 Research](https://img.shields.io/badge/Research-Click%20Here-blue)](./research.md)
 
 ## About Me
 - I am currently a first-year PhD student at the Department of Statistics at North Carolina State University. 
