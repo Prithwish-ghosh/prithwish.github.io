@@ -8,6 +8,6 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Research"
-    url: "/research/"
+    url: "research.md"
 
 
