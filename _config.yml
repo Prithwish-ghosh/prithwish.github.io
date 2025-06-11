@@ -9,3 +9,8 @@ nav:
     url: "/"
   - title: "Research"
     url: "research"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
